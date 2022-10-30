@@ -5,9 +5,9 @@
 * **`DRF 3.10`**
 * **`Vue2`**
 
-### Configuring and Running Site on Local
+### Configuring and Running Site on Local Machine
 
-## Setting up for the backend
+## Setting up for the backend in the backend directory 
 
 #### Clone this repository
 ```
