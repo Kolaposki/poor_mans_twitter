@@ -64,6 +64,7 @@ db.sqlite3-journal
 #Jetbrains stuffs
 .idea/
 .idea
+/.idea/
 
 # Flask stuff:
 instance/

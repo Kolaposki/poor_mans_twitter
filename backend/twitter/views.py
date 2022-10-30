@@ -4,7 +4,7 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from .models import Tweet
-from api.serializers import TweetSerializer
+from .api.serializers import TweetSerializer
 
 
 class TweetView(APIView):
