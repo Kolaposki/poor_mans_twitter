@@ -1,0 +1,44 @@
+body{
+  font-family: 'Quicksand';
+    color: #7f8c8d;
+    font-size: 14px;
+    background-color: #ededed;
+}
+
+.shadow-textarea textarea.form-control::placeholder {
+    font-weight: 300;
+}
+
+.shadow-textarea textarea.form-control {
+    padding-left: 0.8rem;
+}
+
+.textarea {
+    border: 1px solid #ba68c8;
+}
+
+.textarea:focus {
+    border: 1px solid #ba68c8;
+    box-shadow: 0 0 0 0.2rem rgba(186, 104, 200, .25);
+}
+.tweet-action{
+    display: inline-flex;
+}
+.textarea-box{
+    margin-right: 10px;
+    max-width: 400px;
+    width: 400px;
+}
+
+.input-box{
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+button.btn-primary{
+    display: block;
+    padding: 10px 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
